@@ -1,0 +1,9 @@
+tasks:
+  - init: yarn install
+
+vscode:
+  extensions:
+    - dbaeumer.vscode-eslint
+    - eamodio.gitlens
+    - dsznajder.es7-react-js-snippets
+    - ionutvmi.path-autocomplete
